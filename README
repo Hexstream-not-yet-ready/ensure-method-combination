@@ -1,0 +1,9 @@
+Project's home: https://www.hexstreamsoft.com/libraries/ensure-method-combination/
+
+
+ensure-method-combination provides an ENSURE method combination type that allows for
+concise and flexible instantiation and reinitialization of dependent objects.
+
+
+This library is in the Public Domain.
+See the UNLICENSE file for details.
